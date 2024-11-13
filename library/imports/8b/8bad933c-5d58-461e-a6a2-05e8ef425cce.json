@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_dayanta",
+    "texture": "7d4d5987-9c56-4f30-9216-a232c27b1359",
+    "atlas": "",
+    "rect": [
+      9,
+      9,
+      74,
+      75
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      92,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
